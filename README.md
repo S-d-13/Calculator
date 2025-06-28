@@ -11,6 +11,13 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript — with ligh
 
 ## 📸 Screenshot
 
+**Screenshot1-Light Mode**
+
+screenshot1.png
+
+**Screenshot2-Dark Mode**
+
+screenshot2.png
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -19,6 +26,9 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript — with ligh
 - VS Code 🧑‍💻
 - Font Awesome for icon
 
-
+🌐Live Demo
+Click below to use the calculator online.
+https://s-d-13.github.io/Calculator/
 
 ## 👩‍💻 Author
+@s-d-13
