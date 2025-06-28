@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+    <div class="toggle">
+        <span id="modes">Switch to Dark Mode</span>
+        <label class="switch">
+            <input type="checkbox" id="toggleSwitch">
+            <span class="slider"></span>
+        </label>
+    </div>
+    <div class="container">
+        <h1>CALCULATOR</h1>
+        <div id="resultarea" class="result-area"></div>
+        <div class="buttons">
+            <button onclick="clearfn()"><span>Clear</span></button>
+            <button onclick="backspacefn()"><i class="fas fa-backspace"></i></button>
+            <button onclick="operatorfn('%')"><span>%</span></button>
+            <button onclick="operatorfn('/')"><span>/</span></button>
+            <button onclick="numberfn(7)"><span>7</span></button>
+            <button onclick="numberfn(8)"><span>8</span></button>
+            <button onclick="numberfn(9)"><span>9</span></button>
+            <button onclick="operatorfn('*')"><span>*</span></button>
+            <button onclick="numberfn(4)"><span>4</span></button>
+            <button onclick="numberfn(5)"><span>5</span></button>
+            <button onclick="numberfn(6)"><span>6</span></button> 
+            <button onclick="operatorfn('+')"><span>+</span></button>
+            <button onclick="numberfn(1)"><span>1</span></button>
+            <button onclick="numberfn(2)"><span>2</span></button> 
+            <button onclick="numberfn(3)"><span>3</span></button>
+            <button onclick="operatorfn('-')"><span>-</span></button>
+        </div>
+        <div class="calcbtn">
+            <button onclick="calculatefn()"><span>=</span></button>
+        </div>
+    </div>
+</body>
+</html>
