@@ -11,24 +11,24 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript — with ligh
 
 ## 📸 Screenshot
 
-**Screenshot1-Light Mode**
+**Light Mode:**
 
-https://github.com/S-d-13/Calculator/blob/main/screenshot1.png
+![Light Mode](https://raw.githubusercontent.com/S-d-13/Calculator/main/screenshot1.png)
 
-**Screenshot2-Dark Mode**
+**Dark Mode:**
 
-https://github.com/S-d-13/Calculator/blob/main/screenshot2.png
+![Dark Mode](https://raw.githubusercontent.com/S-d-13/Calculator/main/screenshot2.png)
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- VS Code 🧑‍💻
-- Font Awesome for icon
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- VS Code 🧑‍💻  
+- Font Awesome for icon  
 
-## 🌐Live Demo
-Click below to use the calculator online.
-https://s-d-13.github.io/Calculator/
+## 🌐 Live Demo  
+Click below to use the calculator online:  
+[Live Demo](https://S-d-13.github.io/Calculator/)
 
 ## 👩‍💻 Author
 @s-d-13
