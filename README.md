@@ -13,11 +13,11 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript — with ligh
 
 **Screenshot1-Light Mode**
 
-screenshot1.png
+https://github.com/S-d-13/Calculator/blob/main/screenshot1.png
 
 **Screenshot2-Dark Mode**
 
-screenshot2.png
+https://github.com/S-d-13/Calculator/blob/main/screenshot2.png
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -26,7 +26,7 @@ screenshot2.png
 - VS Code 🧑‍💻
 - Font Awesome for icon
 
-🌐Live Demo
+## 🌐Live Demo
 Click below to use the calculator online.
 https://s-d-13.github.io/Calculator/
 
