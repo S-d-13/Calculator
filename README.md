@@ -13,13 +13,14 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript — with ligh
 
 **Light Mode:**
 
-![Light Mode](https://raw.githubusercontent.com/S-d-13/Calculator/main/screenshot1.png)
+<img src="screenshot1.png" alt="Calculator Dark Mode Screenshot" width="500" height="auto" />
 
 **Dark Mode:**
 
-![Dark Mode](https://raw.githubusercontent.com/S-d-13/Calculator/main/screenshot2.png)
+<img src="screenshot2.png" alt="Calculator Dark Mode Screenshot" width="500" height="auto" />
 
 ## 🛠️ Tech Stack
+
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
